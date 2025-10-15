@@ -1,0 +1,13 @@
+name: spatio_temporal_voxel_layer
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/4f525e65-d200-4a6a-bf14-acd34ebfc5a5
+description: A new voxel layer leveraging modern 3D graphics tools to modernize navigation environmental representations
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
